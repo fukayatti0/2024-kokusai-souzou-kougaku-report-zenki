@@ -18,7 +18,7 @@ def run_command(command: str) -> Tuple[str, bool]:
 def get_versions() -> List[Dict[str, str]]:
     commands = {
         'Python': {
-            'cmd': 'python --version',
+            'cmd': 'python -V',
             'pattern': r'Python (\d+\.\d+\.\d+)'
         },
         'Ruby': {
@@ -26,7 +26,7 @@ def get_versions() -> List[Dict[str, str]]:
             'pattern': r'ruby (\d+\.\d+\.\d+)'
         },
         'Node.js': {
-            'cmd': 'node --version',
+            'cmd': 'node -v',
             'pattern': r'v(\d+\.\d+\.\d+)'
         },
         'Go': {
