@@ -1,0 +1,30 @@
+==> Assembly/assembly.log <==
+実行時間: .02 秒
+
+==> C#/c#.log <==
+実行時間: .49 秒
+
+==> C++/c++.log <==
+実行時間: .58 秒
+
+==> C/clang.log <==
+実行時間: .18 秒
+==> Go/all.log <==
+
+==> Go/go.log <==
+実行時間: .17 秒
+
+==> Java/java.log <==
+実行時間: .67 秒
+
+==> Javascript/javascript.log <==
+実行時間: .22 秒
+
+==> Python3/python3.log <==
+実行時間: 8.16 秒
+
+==> Ruby/ruby.log <==
+実行時間: 13.20 秒
+
+==> Swift/swift.log <==
+実行時間: .59 秒
